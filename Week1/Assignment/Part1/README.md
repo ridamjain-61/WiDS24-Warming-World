@@ -1,8 +1,4 @@
-# Week 1 Assignment
-
----
-
-## Part 1: NumPy and Matplotlib Practice
+# Part 1: Let's Matplot!!
 
 ---
 
