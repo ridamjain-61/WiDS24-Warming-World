@@ -1,4 +1,4 @@
-# Part 1: Let's Matplot!!
+# Part 1: Let's Matplot with NumPy!!
 
 ---
 
