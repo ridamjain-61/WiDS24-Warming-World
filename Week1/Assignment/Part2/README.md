@@ -1,8 +1,4 @@
-# General Details : Assignment 1
-
----
-
-## Part 2: NumPy and Some Matrix Operations
+# Part 2: NumPy in some Depth!!
 
 ---
 
