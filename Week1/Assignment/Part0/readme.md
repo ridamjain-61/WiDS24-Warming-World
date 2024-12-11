@@ -3,7 +3,7 @@ Hello, we hope you had a good time watching the tutorials and have learned a lot
 **CAUTION:**
 **AVOID USING LOOPS AS MUCH AS YOU CAN, TRY USING INBUILT FUNCTIONS AS MUCH AS POSSIBLE.**
 
-1. Create and print a 2-dimensional NumPy array of shape (5, 5\) filled with random\* integers between 1 and 100\. Perform the following tasks:  
+1. Create a .py file to print a 2-dimensional NumPy array of shape (5, 5\) filled with random\* integers between 1 and 100\. Also perform the following tasks in it:  
    1. Extract and print the middle element of the array using NumPy indexing.  
    2. Calculate and print the mean of each row of the array.  
    3. Create a new array that contains only the elements from the original array that are greater than the overall mean of the array.  

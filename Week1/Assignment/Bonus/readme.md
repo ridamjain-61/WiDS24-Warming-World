@@ -1,0 +1,1 @@
+Go through description.pdf and complete the spice.py file accordingly.

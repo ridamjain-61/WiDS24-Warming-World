@@ -2,7 +2,7 @@
 
 ---
 
-## Part 2: NumPy and Some Matrix Operations (Optional: Tasks 4, 5)
+## Part 2: NumPy and Some Matrix Operations
 
 ---
 
@@ -16,6 +16,10 @@
 ---
 
 ### Problem
+
+**CAUTION:**
+
+**Avoid using loops as much as possible, use inbuilt functions only if possible**
 
 Your friend Rockstar is too good at coding and playing with arrays, but you know that Rockstar only knows C programming language, while you are comfortable with Python. You want to show your friend that there are faster ways of array and matrix operations using vectorization. Using the power of `numpy`, you challenge your friend for the title of "Coding God."
 
