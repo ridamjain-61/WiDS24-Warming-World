@@ -9,7 +9,7 @@ Hello, we hope you had a good time watching the tutorials and have learned a lot
    3. Create a new array that contains only the elements from the original array that are greater than the overall mean of the array.  
    4. Write a Python function numpy\_spiral\_order(matrix) that takes a NumPy matrix and returns a list containing the elements visited in a spiral order.
 
-      Example:![Example Image][example.png]
+      Example:![Example Image](example.png)
 
 **Hints:**
 
