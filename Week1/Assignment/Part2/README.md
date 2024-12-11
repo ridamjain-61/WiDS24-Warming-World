@@ -40,11 +40,6 @@ Print only the elements that belong to the upper diagonal matrix (including the 
 elements) in column-wise fashion.
 
 Expected output (present in task1.txt):
-5 <br>
-5 11 <br>
-84 1 48 <br>
-3 55 12 93 <br>
-9 58 36 98 13 <br>
 
 ### Task 2:
 Print mean, median and standard deviation (all along x-axis), determinant and inverse of the
@@ -54,14 +49,6 @@ printed instead. For the standard deviation, determinant and inverse, keep the p
 as 2 decimals (check the "around" function in numpy).
 
 Expected output (present in task2.txt):
-[ 5.2 11.4 47.6 32.6 42.8] <br>
-[ 6. 11. 48. 12. 36.] <br>
-[ 2.32  6.34 27.6  36.09 32.73] <br>
-[[-0.58 -0.53 -0.26  0.37  0.74] <br>
- [ 0.23  0.29  0.08 -0.19 -0.24] <br>
- [ 0.05  0.03  0.01 -0.02 -0.05] <br>
- [ 0.32  0.34  0.06 -0.21 -0.34] <br>
- [-0.29 -0.31 -0.05  0.2   0.29]] <br>
 
  ### Task 3:
  Print the following:
@@ -73,19 +60,7 @@ The first output matrix should correspond to sorting along vertical, then along 
 and then the sorted flattened matrix. Each output should appear in a new line. It is fine
 if one output takes multiple lines.
 
-Expected output (present in task3.txt):
-[[ 1  4  1  0  9] <br>
- [ 5  5 41  3 13] <br>
- [ 6 11 48 12 36] <br>
- [ 6 17 64 55 58] <br>
- [ 8 20 84 93 98]] <br>
-[[ 3  5  5  9 84] <br>
- [ 1  6 11 55 58] <br>
- [ 1 12 20 36 48] <br>
- [ 4  8 41 93 98] <br>
- [ 0  6 13 17 64]] <br>
-[ 0  1  1  3  4  5  5  6  6  8  9 11 12 13 17 20 36 41 48 55 58 64 84 93
- 98]  
+Expected output (present in task3.txt): 
 
 ### Optional:
 These two tasks are slightly more involved and are only for additional learning and reference.
@@ -97,9 +72,6 @@ second largest element in the next line. For this task, you should use only nump
 and no loops.
 
 Expected output (present in task4.txt):
-[ 0  1  1  3  4  5  5  6  6  8  9 11 12 13 17 20 36 41 48 55 58 64 84 93 98] <br>
-[1 2 1 1 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
-
 
 ### Task 5:
 You will be given an integer "n" and you 
@@ -111,12 +83,5 @@ and n right columns will be 0. The matrix would be at the center, and will still
 N x M. 
 
 Expected output (present in task5.txt):
-[[ 0  0  0  0  0  0  0  0  0] <br>
- [ 0  0  0  0  0  0  0  0  0] <br>
- [ 0  0  5  5 84  3  9  0  0] <br>
- [ 0  0  6 11  1 55 58  0  0] <br>
- [ 0  0  1 20 48 12 36  0  0] <br>
- [ 0  0  8  4 41 93 98  0  0] <br>
- [ 0  0  6 17 64  0 13  0  0] <br>
- [ 0  0  0  0  0  0  0  0  0] <br>
- [ 0  0  0  0  0  0  0  0  0]] <br>
+
+### Check the expected_outputs folder for the expected outputs for each task
