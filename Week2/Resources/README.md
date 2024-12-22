@@ -41,7 +41,6 @@ By the end of this week, you will:
 - **Practical Time Series Analysis** by Aileen Nielsen.
 
 ### Online Resources
-- [A Comprehensive Guide to Time Series Analysis](https://towardsdatascience.com/a-comprehensive-guide-to-time-series-analysis-327a6a5d3b29)
 - [Time Series Analysis and Forecasting with Python](https://machinelearningmastery.com/time-series-forecasting/)
 - [Understanding Time Series Decomposition](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 
